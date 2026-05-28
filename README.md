@@ -23,15 +23,16 @@ to create a scalable, low-cost, and non-invasive healthcare monitoring solution.
 
 # 🚀 Features
 
-✅ Real-time gait analysis using webcam
-✅ MediaPipe-based pose landmark extraction
-✅ Deep Learning temporal sequence learning
-✅ Fall-risk prediction system
-✅ Live AI analytics dashboard
-✅ Pose landmark visualization
-✅ Real-time anomaly scoring
-✅ Stability and symmetry analysis
-✅ Lightweight and deployable system
+
+- ✅ Real-time gait analysis using webcam
+- ✅ MediaPipe-based pose landmark extraction
+- ✅ Deep Learning temporal sequence learning
+- ✅ Fall-risk prediction system
+- ✅ Live AI analytics dashboard
+- ✅ Pose landmark visualization
+- ✅ Real-time anomaly scoring
+- ✅ Stability and symmetry analysis
+- ✅ Lightweight and deployable system
 
 ---
 
